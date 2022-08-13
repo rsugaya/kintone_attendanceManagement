@@ -9,7 +9,7 @@
 		"pass": "XXXX"
 	},
 	"scripts": {
-		"upload": "cd dest && kintone-customize-uploader --base-url $npm_package_config_subdomain --username $npm_package_config_user --password $npm_package_config_pass customize-manifest.json",
+		"upload": "cd dest && kintone-customize-uploader --base-url $npm_package_config_subdomain --username $npm_package_config_user --password $npm_package_config_pass customize-manifest.json"
 	},
 	"keywords": [],
 	"author": "",
