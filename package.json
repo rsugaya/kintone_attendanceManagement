@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "index.js",
 	"config": {
-		"subdomain": "https://7ih4xw56uzcy.cybozu.com",
+		"subdomain": "https://XXXX.cybozu.com",
 		"user": "XXXX",
 		"pass": "XXXX"
 	},
