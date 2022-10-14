@@ -4,9 +4,9 @@
 	"description": "",
 	"main": "index.js",
 	"config": {
-		"subdomain": "https://7ih4xw56uzcy.cybozu.com",
-		"user": "XXXX",
-		"pass": "XXXX"
+		"subdomain": "",
+		"user": "",
+		"pass": ""
 	},
 	"scripts": {
 		"upload": "cd dest && kintone-customize-uploader --base-url $npm_package_config_subdomain --username $npm_package_config_user --password $npm_package_config_pass customize-manifest.json"
